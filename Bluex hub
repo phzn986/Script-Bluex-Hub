@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bluex Hub - Script</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: #1a1a1a;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #00f;
+        }
+        p {
+            font-size: 18px;
+        }
+        .button {
+            background-color: #00f;
+            color: #fff;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #0057b8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bluex Hub - Script de Roblox</h1>
+        <p>Bem-vindo ao Bluex Hub! Clique no link abaixo para baixar o script de AutoFarm e outros recursos do Bluex Hub para Roblox.</p>
+        <a href="https://example.com/bluex-hub-script.lua" class="button" download="Bluex_Hub_Script.lua">Baixar Script</a>
+    </div>
+
+</body>
+</html>
